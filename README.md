@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 # HOTEL-MANAGMENT
+=======
+# HOTEL
+>>>>>>> 785b7f1b721fb610e29422182a6ee1b40b5e59fb
